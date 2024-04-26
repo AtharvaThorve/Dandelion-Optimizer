@@ -1,4 +1,9 @@
 # Dandelion Optimizer
+
+Currently maintained by [Atharva Thorve](https://github.com/AtharvaThorve), my [LinkedIn](https://linkedin.com/in/atharva-thorve).
+
+Project information is below, and I am currently trying different ways to improve the implementation.
+
 ### Summary
 
 Our project is the Dandelion Optimizer Algorithm (DO). The algorithm uses the movement of Dandelions and then uses these movements as a way to solve continuous optimization problems.
